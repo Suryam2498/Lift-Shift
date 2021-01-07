@@ -1,0 +1,3 @@
+Section 1: Learning GitLab ---> https://github.com/PacktPublishing/Learning-GitLab-
+
+Section 2: Hands-On Auto DevOps with GitLab CI ---> https://github.com/PacktPublishing/Hands-On-Auto-DevOps-with-GitLab-CI
